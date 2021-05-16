@@ -1,32 +1,38 @@
+
 <channels>
 
 <channel>
 
-<name>Aventura</name>
+<name>[COLOR red]AÇÃO[/COLOR]</name>
 
-<thumbnail>https://i.imgur.com/IbKJOe0.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/fJvSGo0.jpg</thumbnail>
 
-<externallink>https://raw.githubusercontent.com/clickaddon/aventhura/main/Aventhura</externallink>
+<externallink></externallink>
 
 <fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
 
-<info>Para aqueles que curtem mais ação, para os que curtem a mistura de drama com comédia, ou para os grandes fãs de ficção científica, vários tipos de produções cinematográficas aliam a aventura a suas tramas para garantir ainda mais emoção. Confira uma lista de filmes de aventuras incríveis. Tem para todos os gostos!</info>
+<info>O QUE FAZ UM BOM FILME DE AÇÃO? UMA BELA DISPUTA DO BEM CONTRA O MAL? MUITA VELOCIDADE EM PERSEGUIÇÕES E CORRIDAS RECHEADÍSSIMAS DE ADRENALINA? UMAS BOAS LUTAS, COM ARMAS OU DE PRÓPRIO PUNHO? ALIENS, ROBÔS, MAFIOSOS, CRIMINOSOS, DESASTRES, GUERRAS? DESCUBRA TUDO ISSO NESSA SEÇÃO. FILMES COM TUDO PARA AGRADAR OS MAIORES FANÁTICOS POR ADRENALINa.</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channel>
+
+<name>[COLOR green]AVENTURA[/COLOR]</name>
+
+<thumbnail>https://i.imgur.com/NbsSWcB.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/aventhura/raw/main/README.md</externallink>
+
+<fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
+
+<info>PARA AQUELES QUE CURTEM MAIS AÇÃO, PARA OS QUE CURTEM A MISTURA DE DRAMA COM COMÉDIA, OU PARA OS GRANDES FÃS DE FICÇÃO CIENTÍFICA, VÁRIOS TIPOS DE PRODUÇÕES CINEMATOGRÁFICAS ALIAM A AVENTURA A SUAS TRAMAS PARA GARANTIR AINDA MAIS EMOÇÃO. CONFIRA UMA LISTA DE FILMES DE AVENTURAS INCRÍVEIS. TEM PARA TODOS OS GOSTOS!</info>
 
 </channel>
 
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
-
-
-
-
-
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
 </channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
