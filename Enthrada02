@@ -36,6 +36,54 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
+<name>[COLOR mediumturquoise]SUSPENSE[/COLOR]</name>
+
+<thumbnail></thumbnail>
+
+<externallink>https://teste.jpg</externallink>
+
+<fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
+
+<info></info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[COLOR darkturquoise]TERROR[/COLOR]</name>
+
+<thumbnail></thumbnail>
+
+<externallink>https://teste.jpg</externallink>
+
+<fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
+
+<info></info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[COLOR lightseaturquoise]DRAMA[/COLOR]</name>
+
+<thumbnail></thumbnail>
+
+<externallink>https://teste.jpg</externallink>
+
+<fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
+
+<info></info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
 <name>[COLOR powderblue]FANTASIA[/COLOR]</name>
 
 <thumbnail>https://i.imgur.com/efzCgyc.jpg</thumbnail>
@@ -77,54 +125,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
 
 <info>OS FILMES DE FAROESTE – OU WESTERN, EM INGLÊS – TIVERAM SEU AUGE NAS DÉCADAS DE 1950 E 1960. À ÉPOCA, A REPRESENTAÇÃO DO VELHO OESTE ERA SUCESSO DE BILHETERIA, AINDA MAIS SE TIVESSE NOMES COMO JOHN WAYNE E CLINT EASTWOOD NO ELENCO. DE LÁ PARA CÁ, ENTRETANTO, O GÊNERO PERDEU FORÇA. MAS, VEZ OU OUTRA, UM TÍTULO REVIVE SUA GLÓRIA. SEM CONTAR QUE OS CLÁSSICOS CONTINUAM A CONQUISTAR FÃS.</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[COLOR mediumturquoise]SUSPENSE[/COLOR]</name>
-
-<thumbnail></thumbnail>
-
-<externallink>https://teste.jpg</externallink>
-
-<fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
-
-<info></info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[COLOR lightseaturquoise]DRAMA[/COLOR]</name>
-
-<thumbnail></thumbnail>
-
-<externallink>https://teste.jpg</externallink>
-
-<fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
-
-<info></info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[COLOR darkturquoise]TERROR[/COLOR]</name>
-
-<thumbnail></thumbnail>
-
-<externallink>https://teste.jpg</externallink>
-
-<fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
-
-<info></info>
 
 </channel>
 
