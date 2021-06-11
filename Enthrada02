@@ -1,7 +1,7 @@
 
 <channel>
 
-<name>>>> [COLOR powderblue] GÊNEROS[/COLOR]</name>
+<name>[COLOR powderblue]》》》 GÊNEROS[/COLOR]</name>
 
 <thumbnail></thumbnail>
 
@@ -18,7 +18,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>>>> [COLOR skyblue]MAIS RECENTES[/COLOR]</name>
+<name>>>>[COLOR skyblue]》》》 MAIS RECENTES[/COLOR]</name>
 
 <thumbnail></thumbnail>
 
@@ -34,24 +34,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>>> [COLOR wheat]MAIS ANTIGOS[/COLOR]</name>
-
-<thumbnail></thumbnail>
-
-<externallink></externallink>
-
-<fanart></fanart>
-
-<info></info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<channel>
-
-<name>[COLOR goldenrod][/COLOR]</name>
+<name>>>[COLOR wheat]》》》 MAIS ANTIGOS[/COLOR]</name>
 
 <thumbnail></thumbnail>
 
@@ -68,72 +51,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR aquamarine][/COLOR]</name>
-
-<thumbnail></thumbnail>
-
-<externallink></externallink>
-
-<fanart></fanart>
-
-<info></info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name></name>
-
-<thumbnail></thumbnail>
-
-<externallink></externallink>
-
-<fanart></fanart>
-
-<info></info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>>>> [COLOR powderblue] GÊNEROS[/COLOR]</name>
-
-<thumbnail></thumbnail>
-
-<externallink>https://github.com/clickaddon/ClickEntrada02/raw/main/Enthrada02</externallink>
-
-<fanart></fanart>
-
-<info></info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<channel>
-
-<name>>>> [COLOR skyblue]MAIS RECENTES[/COLOR]</name>
-
-<thumbnail></thumbnail>
-
-<externallink></externallink>
-
-<fanart></fanart>
-
-<info></info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>>> [COLOR wheat]MAIS ANTIGOS[/COLOR]</name>
+<name>[COLOR goldenrod]》》》 [/COLOR]</name>
 
 <thumbnail></thumbnail>
 
@@ -150,24 +68,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR goldenrod][/COLOR]</name>
-
-<thumbnail></thumbnail>
-
-<externallink></externallink>
-
-<fanart></fanart>
-
-<info></info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<channel>
-
-<name>[COLOR aquamarine][/COLOR]</name>
+<name>[COLOR aquamarine]》》》 [/COLOR]</name>
 
 <thumbnail></thumbnail>
 
@@ -183,7 +84,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name></name>
+<name>[COLOR aquamarine]》》》 [/COLOR]</name>
 
 <thumbnail></thumbnail>
 
