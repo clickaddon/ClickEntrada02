@@ -2,7 +2,7 @@
 
 <channel>
 
-<name>[COLOR powderblue]>>> GÊNEROS[/COLOR]</name>
+<name>[B][COLOR powderblue]>>> GÊNEROS[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/yXorS8E.jpg</thumbnail>
 
@@ -20,7 +20,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR lightgreen]>>> DICA CLICK[/COLOR]</name>
+<name>[B][COLOR lightgreen]>>> DICA CLICK[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/U6LzxeH.jpg</thumbnail>
 
@@ -39,7 +39,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR skyblue]>>> SUPER-HERÓIS[/COLOR]</name>
+<name>[B][COLOR skyblue]>>> SUPER-HERÓIS[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/G5RlBRe.jpg</thumbnail>
 
@@ -59,7 +59,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR wheat]>>> MAIS RECENTES[/COLOR]</name>
+<name>[B][COLOR wheat]>>> MAIS RECENTES[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/MsJZDPL.jpg</thumbnail>
 
@@ -75,7 +75,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR ]>>> MAIS ANTIGOS[/COLOR]</name>
+<name>[B][COLOR ]>>> MAIS ANTIGOS[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/J9rGcce.jpg</thumbnail>
 
@@ -91,7 +91,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR goldenrod]>>> [/COLOR]</name>
+<name>[B][COLOR goldenrod]>>> [/COLOR][/B]</name>
 
 <thumbnail></thumbnail>
 
@@ -107,7 +107,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR aquamarine]>>> [/COLOR]</name>
+<name>[B][COLOR aquamarine]>>> [/COLOR][/B]</name>
 
 <thumbnail></thumbnail>
 
@@ -122,5 +122,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 </channels>
+
+
+
+
 
 
