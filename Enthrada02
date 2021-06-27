@@ -1,28 +1,10 @@
-
 <channels>
 
 <channel>
 
-<name>[B][COLOR lightgreen]>>> DICA CLICK[/COLOR][/B]</name>
+<name>[B][COLOR powderblue]>>> LANÇAMENTOS[/COLOR][/B]</name>
 
-<thumbnail>https://i.imgur.com/U6LzxeH.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/DHICA/raw/main/Dhica</externallink>
-
-<fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
-
-<info>TOPA UMA AJUDINHA?
-PARA QUEM ESTÁ PERDIDO E NÃO SABE MUITO BEM O QUE ESCOLHER ENTRE TANTAS OPÇÕES, O  CLICK FARÁ UMA LISTA DE 5 FILMES PARA FACILITAR SUA VIDA! TODA SEMANA UM MIX DE GÊNEROS. FILMES DE COMÉDIA, DRAMA, AÇÃO, AVENTURA, TERROR... MUITA COISA LEGAL E DISPONÍVEL NESSE ESPAÇO. AH, VALE RESSALTAR QUE TEM ALGUMAS OPÇÕES MAIS ANTIGAS, MAS QUE AINDA VALEM A PENA ASSISTIR!</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR powderblue]>>> LANÇAMENTOS 2020|2021[/COLOR][/B]</name>
-
-<thumbnail>https://i.imgur.com/MsJZDPL.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/JKACdzb.jpg</thumbnail>
 
 <externallink>https://github.com/clickaddon/MAISHRECENTES/raw/main/Maishrecentes</externallink>
 
@@ -69,6 +51,23 @@ https://www.google.com/search?q=super-her%C3%B3is+filme+dicas&client=ms-android-
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR lightgreen]>>> DICA CLICK[/COLOR][/B]</name>
+
+<thumbnail>https://i.imgur.com/U6LzxeH.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/DHICA/raw/main/Dhica</externallink>
+
+<fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
+
+<info>TOPA UMA AJUDINHA?
+PARA QUEM ESTÁ PERDIDO E NÃO SABE MUITO BEM O QUE ESCOLHER ENTRE TANTAS OPÇÕES, O  CLICK FARÁ UMA LISTA DE 5 FILMES PARA FACILITAR SUA VIDA! TODA SEMANA UM MIX DE GÊNEROS. FILMES DE COMÉDIA, DRAMA, AÇÃO, AVENTURA, TERROR... MUITA COISA LEGAL E DISPONÍVEL NESSE ESPAÇO. AH, VALE RESSALTAR QUE TEM ALGUMAS OPÇÕES MAIS ANTIGAS, MAS QUE AINDA VALEM A PENA ASSISTIR!</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
