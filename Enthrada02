@@ -67,7 +67,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR darkorange]>>> MARVEL COMICS[/COLOR][/B]</name>
+<name>[B][COLOR tomato]>>> MARVEL COMICS[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/KgIapNL.jpg</thumbnail>
 
 <externallink>https://github.com/clickaddon/MARHVEL/raw/main/Marhvel</externallink>
@@ -84,7 +84,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR lightsalmon]>>> CRONOLOGIA X-MEN[/COLOR][/B]</name>
+<name>[B][COLOR coral]>>> CRONOLOGIA X-MEN[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/9IdoMwj.jpg</thumbnail>
 
 <externallink>https://github.com/clickaddon/XMEN/raw/main/Xmen</externallink>
@@ -100,7 +100,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR goldenrod]>>> FRANQUIAS ALTERNATIVAS[/COLOR][/B]</name>
+<name>[B][COLOR salmon]>>> FRANQUIAS ALTERNATIVAS[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/j6pl2fz.jpg</thumbnail>
 
@@ -118,7 +118,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR darkgoldenrod]>>> SUPER-HERÓIS ALTERNATIVOS[/COLOR][/B]</name>
+<name>[B][COLOR darksalmon]>>> SUPER-HERÓIS ALTERNATIVOS[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/elrpmX5.jpg</thumbnail>
 
