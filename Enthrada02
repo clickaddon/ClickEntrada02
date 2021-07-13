@@ -51,11 +51,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
+<channel>
 
-<title>[B][COLOR aaquamarine>>> COLEÇÃO 007[/COLOR][/B]</title>
+<name>[B][COLOR aaquamarine>>> COLEÇÃO 007[/COLOR][/B]</name>
 
-<link>https://github.com/clickaddon/007/raw/main/007</link>
+<externallink>https://github.com/clickaddon/007/raw/main/007</externallink>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/HORpg5CSkmeQlAolx3bKMrKgfi.jpg</thumbnail>
 
@@ -63,7 +63,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <info>[B][COLOR aquamarine]A SÉRIE DE FILMES DE JAMES BOND É UMA SÉRIE BRITÂNICA DE FILMES DE ESPIÃO COM BASE NO PERSONAGEM FICTÍCIO DO AGENTE MI6 JAMES BOND, CODINOME "007". COM TODA AÇÃO, AVENTURA E GADGETS QUE DEIXOU BOND FAMOSO.[/COLOR][/B]</info>
 
-</item>
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
