@@ -4,7 +4,6 @@
  tvg-logo="https://i.imgur.com/IO57Ghv.jpg" group-title="VIKO FILMES",VIKO FILMES
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/07/09/21/5292740.jpg" group-title="2021",Zona de Combate (2021)
 http://185.148.3.146:6503/Zona.de.Combate.2021.720p.WEB-DL.6CH.x264-DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/06/09/07/24/5793886.jpg" group-title="2021",Voce Deveria Ter Partido (2021)
@@ -1331,330 +1330,29 @@ http://195.154.80.170:7700/O%20Senhor%20dos%20An%C3%A9is%20-%20A%20Sociedade%20d
 http://185.148.3.146:6503/Os%20Croods%202013%20Dublado%20BDRip%20720p%20-%20MHDS.mp4
 
 
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/14/10/17/19/18/097729.jpg" group-title="Filmes Antigos",Operação Big Hero (2014)
-http://192.99.18.120/FILMES%20INFANTIL/Opera%c3%a7%c3%a3o%20Big%20Hero.mp4
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/ee/e5/74/eee574d067bc429db22d2746291bf1ac.jpg" group-title="Filmes Antigos",O Rei Leão (1994)
 http://185.148.3.146:6503/O.Rei.Le%C3%A3o.1994.720p.BluRay.x264.DUAL.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/89/89/64/20447033.jpg" group-title="Filmes Antigos",O Rei Leão 2: O Reino de Simba (1998)
-http://192.99.18.120/FILMES%20INFANTIL/O%20Rei%20Le%c3%a3o%202%20-%20O%20Reino%20de%20Simba.mp4
+
+
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/92/75/25/20215604.jpg" group-title="Filmes Antigos",O Rei Leão 3 (2004)
 http://185.148.3.146:6503/O.Rei.Le%C3%A3o.3.2004.720p.BluRay.x264.DUAL.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4c/6d/75/4c6d75ac51fb097c9f0ae5df862abcd8.jpg" group-title="Filmes Antigos",O Incrível Hulk (2008)
-http://192.99.18.120/FILMES%20INFANTIL/O%20Incr%c3%advel%20Hulk.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/66/d9/38/66d9382211dadc18a2142a70cbc6c73f.jpg" group-title="Filmes Antigos",O Espetacular Homem Aranha (2012)
-http://192.99.18.120/FILMES%20INFANTIL/O%20Espetacular%20Homem%20Aranha.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/01/07/21/16/425460.jpg" group-title="Filmes Antigos",O Espetacular Homem Aranha 2 (2014)
-http://192.99.18.120/FILMES%20INFANTIL/O%20Espetacular%20Homem%20Aranha%202.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/dd/e0/45/dde045308b8c850ab68bb84b42669d42.jpg" group-title="Filmes Antigos",Minions (2015)
-http://192.99.18.120/FILMES%20INFANTIL/Minions.mp4
+
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/16/e4/9d/16e49d5c5dbb4021fefe94ac712d1948.jpg" group-title="Filmes Antigos",Minions (2015) HD
 http://185.148.3.146:6503/Minions%20(2015)%20BRrip%20Blu-Ray%20720p%205.1%20Ch%20Dublado%20-%20AndreTPF.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/97/87/07/9787076bf1631ad1aaa792651a546aae.jpg" group-title="Filmes Antigos",Madagascar (2005)
-http://192.99.18.120/FILMES%20INFANTIL/Madagascar.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/89/67/15/20097455.jpg" group-title="Filmes Antigos",Madagascar 3: Os Procurados (2012)
-http://192.99.18.120/FILMES%20INFANTIL/Madagascar%203%20Os%20Procurados.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/210/254/21025453_20130807224818013.jpg" group-title="Filmes Antigos",Liga da Justiça: Ponto de Ignição (2013)
-http://192.99.18.120/FILMES%20INFANTIL/Liga%20da%20Justi%c3%a7a%20%20Ponto%20De%20Igni%c3%a7%c3%a3o.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/91/79/19/20163665.jpg" group-title="Filmes Antigos",Homem De Ferro (2008)
-http://192.99.18.120/FILMES%20INFANTIL/Homem%20De%20Ferro.mp4
+
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/210/461/21046189_20131002174340886.jpg" group-title="Filmes Antigos",Frozen: Uma Aventura Congelante (2014)
 http://185.148.3.146:6503/Frozen.Uma.Aventura.Congelante.2014.720p-WOLVERDONFILMES.COM.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/03/18/19/21/310976.jpg" group-title="Filmes Antigos",Frozen: Febre Congelante (2015)
-http://192.99.18.120/FILMES%20INFANTIL/Frozen%20%20%20Febre%20Congelante.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EENFTQedL._SY445_.jpg" group-title="Filmes Antigos",Flyboys (2006)
-http://192.99.18.120/FILMES%20INFANTIL/Flyboys.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/07/17/17/22/398068.jpg" group-title="Filmes Antigos",Festa no Céu (2014)
-http://192.99.18.120/FILMES%20INFANTIL/Festa%20no%20C%c3%a9u.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/e6/84/92/e684922395eafc673d99fc8e3f6abc9d.jpg" group-title="Filmes Antigos",Divertida Mente (2015)
-http://192.99.18.120/FILMES%20INFANTIL/Divertida%20Mente.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51uJGH71GsL._AC_SY355_.jpg" group-title="Filmes Antigos",Como Treinar O Seu Dragão (2010)
-http://192.99.18.120/FILMES%20INFANTIL/Como%20Treinar%20Seu%20Drag%c3%a3o%20-%20ToTTi9.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/c0/d7/53c0d7282a5b136628152a0d9cadf121.jpg" group-title="Filmes Antigos",Como Treinar O Seu Dragão 2 (2014)
-http://192.99.18.120/FILMES%20INFANTIL/Como%20Treinar%20O%20Seu%20Drag%c3%a3o%202.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fc/04/3f/fc043f2410c288ac0b64cda0ac911f3a.jpg" group-title="Filmes Antigos",Carros (2006)
-http://192.99.18.120/FILMES%20INFANTIL/Carros.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/91/50/20028729.jpg" group-title="Filmes Antigos",Carros 2 (2011)
-http://192.99.18.120/FILMES%20INFANTIL/Carros%202.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/a0/3f/54a03fd530a0d6729d0799c3385230f8.jpg" group-title="Filmes Antigos",Bob Esponja: Um Herói Fora d Água (2015)
-http://192.99.18.120/FILMES%20INFANTIL/Bob%20Esponja%20%20%20Um%20Her%c3%b3i%20Fora%20d%20%c3%81gua.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/92/06/45/20178299.jpg" group-title="Filmes Antigos",Bee Movie: A História de uma Abelha (2007)
-http://192.99.18.120/FILMES%20INFANTIL/Bee%20Movie.A%20Hist%c3%b3ria%20de%20uma%20Abelha.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/89/64/87/20080556.jpg" group-title="Filmes Antigos",Battleship: Batalha dos Mares (2012)
-http://192.99.18.120/FILMES%20INFANTIL/Battleship%20Batalha%20dos%20Mares.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41zWyLXIetL._AC_.jpg" group-title="Filmes Antigos",Avatar (2009)
-http://192.99.18.120/FILMES%20INFANTIL/Avatar.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/03/15/36/301097.jpg" group-title="Filmes Antigos",As Aventuras de Paddington (2014)
-http://192.99.18.120/FILMES%20INFANTIL/As%20Aventuras%20de%20Paddington.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/10/30/12/09/090865.jpg" group-title="Filmes Antigos",Alvin e os esquilos: Na estrada (2015)
-http://192.99.18.120/FILMES%20INFANTIL/Alvin%20e%20os%20%20Na%20Estrada.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9b/3c/11/9b3c11cc8a96575216833685fc353e27.jpg" group-title="Filmes Antigos",Aladdin (1992)
-http://192.99.18.120/FILMES%20INFANTIL/Aladdin.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f0/e5/77/f0e577398c31401dc5b3d3c9ff85e22b.jpg" group-title="Filmes Antigos",A Fantástica Fábrica De Chocolate (2005)
-http://192.99.18.120/FILMES%20INFANTIL/A%20Fant%c3%a1stica%20F%c3%a1brica%20De%20Chocolate.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/97/28/48/20520653.jpg" group-title="Filmes Antigos",Os Renegados (2012)
-http://192.99.18.120/FAROESTE%202/Os%20Renegados%20%5b2012%5d%20-%20BluRay%20720p%20Dublado.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/30/15/12/471356.jpg" group-title="Filmes Antigos",Inferno no Faroeste (2013)
-http://192.99.18.120/FAROESTE%202/Inferno%20no%20Faroeste%20(2013)%20-%20wolverdonfilmes.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/09/23/17/09/088278.jpg" group-title="Filmes Antigos",Faroeste Caboclo (2013)
-http://192.99.18.120/FAROESTE%202/Faroeste%20Caboclo.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/laDzqt5WbsyAXzNupjR0TRCLuIt.jpg" group-title="Filmes Antigos",Santos e Pecadores (2010)
-http://192.99.18.120/FAROESTE%202/Duelo.de.Bravos.2016.720p.WEBRip.DUAL-BEAVERY.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/210/011/21001149_20130424155720114.jpg" group-title="Filmes Antigos",Busca Sangrenta (2010)
-http://192.99.18.120/FAROESTE%202/Busca%20Sangrenta%20%5b2010%5d%20-%20BluRay%20720p%20Dublado.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/265/21026540_20130812181855252.jpg" group-title="Filmes Antigos",8 Segundos (1994)
-http://192.99.18.120/FAROESTE%202/8.Segundos.1994.720p.WEBRip.DUAL-BEAVERY.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/55/09/be/5509be292fcd99849be2ff92f7d559ec.jpg" group-title="Filmes Antigos",Rango (2011)
-http://192.99.18.120/FAROESTE/rango.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/58/12/20215551.jpg" group-title="Filmes Antigos",Os Infratores (2012)
-http://192.99.18.120/FAROESTE/os%20infratores%20(www.thepiratefilmes.com).mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/02/27/17/32/497257.jpg" group-title="Filmes Antigos",Um Milhão de Maneiras de Pegar na Pistola (2014)
-http://192.99.18.120/FAROESTE/Um%20Milh%c3%a3o%20de%20Maneiras%20de%20Pegar%20na%20Pistola.(2014).Dublado.720p.By.Luan.Harper.TPF.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/97/53/07/20534288.jpg" group-title="Filmes Antigos",Três Homens em Conflito (1966)
-http://192.99.18.120/FAROESTE/Tr%c3%aas%20Homens%20em%20Conflito%20(1966)%20BRrip%20Blu-Ray%20720p%20Dublado%20Dat2015.mp4
-#EXTINF:-1 tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/10/ojzlgfZi08dLHA8Cj0Ark9hzA7q.jpg" group-title="Filmes Antigos",Os 6 Ridiculos (2015)
-http://192.99.18.120/FAROESTE/The%20Ridiculous%206%202015%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/7115oKbeZyL._SL1208_.jpg" group-title="Filmes Antigos",Rápida e Mortal (1992)
-http://192.99.18.120/FAROESTE/R%c3%a1pida%20e%20Mortal%20(1995)%20BDrip%20720p%20Dublado%20dat2014.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/91/00/46/20125862.jpg" group-title="Filmes Antigos",Os Imperdoáveis (1992)
-http://192.99.18.120/FAROESTE/Os%20Imperdo%c3%a1veis%20%5b1992%5d%20-%20BluRay%20720p%20Dublado.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/89/50/35/20507414.jpg" group-title="Filmes Antigos",O Cavaleiro Solitário (2013)
-http://192.99.18.120/FAROESTE/O%20Cavaleiro%20Solit%c3%a1rio%20%5b%20720p%20%5d%20The%20Pirate%20Filmes.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51XNarnWG3L._SY445_.jpg" group-title="Filmes Antigos",O Caminho do Guerreiro (2010)
-http://192.99.18.120/FAROESTE/O%20Caminho%20do%20Guerreiro.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/bf/50/29/bf50296fe05edafe8d089b0514700b11.jpg" group-title="Filmes Antigos",Django Livre (2012)
-http://192.99.18.120/FAROESTE/Django_Livre_2012_720p_210GJI.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/90/69/19980743.jpg" group-title="Filmes Antigos",Cowboys & Aliens (2011)
-http://192.99.18.120/FAROESTE/Cowboys%20&%20Aliens%20(www.ThePirateFilmes.com).mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/06/17/09/56/396983.jpg" group-title="Filmes Antigos",A Salvação (2015)
-http://192.99.18.120/FAROESTE/A%20Salva%c3%a7%c3%a3o%20(2015)%205.1%20CH%20Dublado%20720p%20(By-LuanHarper).mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/511iH2jCvVL._SY445_.jpg" group-title="Filmes Antigos",Vanilla Sky (2001)
-http://192.99.18.120/FANTASIA/Vanilla.Sky.2001.720p.Web-DL.Dual-RedOctra.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/05/30/19871537.jpg" group-title="Filmes Antigos",Um Faz de Conta que Acontece (2008)
-http://192.99.18.120/FANTASIA/Um.Faz.De.Conta.Que.Acontece.2008.720p.BRRip.Dublado.%5bSmartFlix%20Filmes%20HD%5d.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/05/ee/64/05ee64301dbc7718128ef7a5c0133fad.jpg" group-title="Filmes Antigos",Sangue & Chocolate (2007)
-http://192.99.18.120/FANTASIA/Sangue%20&%20Chocolate%20(2007)%20-%20Dual%20%c3%81udio%20-%20720p%20(Bluray)%20-%20COMANDOTORRENTSHD.NET.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/02/18/17/01/240867.jpg" group-title="Filmes Antigos",Reino de Fogo (2002)
-http://192.99.18.120/FANTASIA/Reino.de.Fogo.2002.BluRay.720p.AC3.5.1.CH.Dual-WWW.TORRENTDOSFILMES.COM.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/15/85/19872608.jpg" group-title="Filmes Antigos",O Reino Proibido (2008)
-http://192.99.18.120/FANTASIA/O%20Reino%20Proibido%20(2008)%20BRrip%20720p%20Dublado%20-%20AndreTPF.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/96/56/42/20475678.jpg" group-title="Filmes Antigos",O Primeiro Mentiroso (2009)
-http://192.99.18.120/FANTASIA/O%20Primeiro%20Mentiroso%20720p%20(2009)%20Dual%20%c3%a1udio%20BluRay%20--%20By%20-%20Lucas%20Firmo.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/08/62/19871871.jpg" group-title="Filmes Antigos",O Ilusionista (2006)
-http://192.99.18.120/FANTASIA/O%20Ilusionista%20-%20The%20Pirate%20Filmes%20ToTTi9.mkv
-#EXTINF:-1 tvg-logo="https://infoxfatecpr.files.wordpress.com/2019/05/225px-poster_o_homem_do_futuro.jpg" group-title="Filmes Antigos",O Homem do Futuro (2011)
-http://192.99.18.120/FANTASIA/O%20Homem%20do%20Futuro%20720p-FILMESBLURAYTORRENT.COM.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61P48jjuYRL._SY445_.jpg" group-title="Filmes Antigos",O Corvo (1994)
-http://192.99.18.120/FANTASIA/O%20Corvo%20(1994)%20Bluray%20720p%20Dual%20%c3%81udio.mp4
-#EXTINF:-1 tvg-logo="https://bocadoinferno.com.br/wp-content/uploads/2013/04/O-Buraco-2019-2.jpg" group-title="Filmes Antigos",O Buraco (2009)
-http://192.99.18.120/FANTASIA/O%20Buraco%20%5b2009%5d%20-%20BluRay%20720p%20Dublado.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/92/84/19962987.jpg" group-title="Filmes Antigos",Não Tenha Medo do Escuro (2010)
-http://192.99.18.120/FANTASIA/N%c3%a3o.Tenha.Medo.do.Escuro.2010.BluRay.720p.Dual.%c3%81udio.%5bGeekFilmes.com%5d.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51e3jKdhYNL._AC_.jpg" group-title="Filmes Antigos",Mulher-Gato (2004)
-http://192.99.18.120/FANTASIA/Mulher-Gato.2004.720p.BluRay.x264.DUAL-WWW.BLUDV.TV-Tio-Kennedy.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NWasliq.jpg" group-title="Filmes Antigos",Minha super ex-namorada (2006)
-http://192.99.18.120/FANTASIA/Minha%20super%20ex-namorada.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/210/432/21043237_20130923215128246.jpg" group-title="Filmes Antigos",Mais Estranho que a Ficção (2006)
-http://192.99.18.120/FANTASIA/Mais%20Estranho%20que%20a%20Fic%c3%a7%c3%a3o%20(2006)%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/210/193/21019379_20130712221603098.jpg" group-title="Filmes Antigos",Jonah Hex: Caçador de Recompensas (2010)
-http://192.99.18.120/FANTASIA/Jonah%20Hex%20-%20Ca%c3%a7ador%20de%20Recompensas.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/35/28/20028748.jpg" group-title="Filmes Antigos",Imortais (2011)
-http://192.99.18.120/FANTASIA/Imortais%20(www.thepiratefilmes.com).mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/15/06/19/15/45/165329.jpg" group-title="Filmes Antigos",Guerra Interior (2015)
-http://192.99.18.120/FANTASIA/Guerra.Interior.2015.DVDRip.XviD.Dual.Audio-magicfilmeshd.avi
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/14/05/16/21/33/288374.jpg" group-title="Filmes Antigos",Guardiões da Noite (2004)
-http://192.99.18.120/FANTASIA/Guardiaes%20da%20noite.DvDrip.Xvid.dublado.AZTORRENTS.ORG.avi
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51I1IsGpVkL._SY445_.jpg" group-title="Filmes Antigos",Grande Albert (2004)
-http://192.99.18.120/FANTASIA/Grande%20Albert%20(2004)%20Dublado%20720p%20(By-LuanHarper).mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/29/42/19874008.jpg" group-title="Filmes Antigos",Força G (2009)
-http://192.99.18.120/FANTASIA/Forca.G.2009.720p.BluRay.DUB-BEAVERY.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/07/67/19871776.jpg" group-title="Filmes Antigos",O Feitiço de Áquila (1998) LEG
-http://192.99.18.120/FANTASIA/Feiti%c3%a7o%20de%20Aquila.1985.720p.Dublado.MV73.mkv
-#EXTINF:-1 tvg-logo="http://www.secbotucatu.org.br/site/wp-content/uploads/2017/06/ENDIABRADO.jpg" group-title="Filmes Antigos",Endiabrado (2000)
-http://192.99.18.120/FANTASIA/Endiabrado%20(2000)%20-%205.1%20CH%20Dublado%20720p%20(By-LuanHarper).mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/94/57/59/20339551.jpg" group-title="Filmes Antigos",Em Nome do Rei: A Última Missão (2014)
-http://192.99.18.120/FANTASIA/Em%20nome%20do%20Rei%20%e2%80%93%20A%20%c3%9altima%20Miss%c3%a3o%20-%20JefePsb%20-%20ARQUIVOSTORRENT.COM.BR.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/93/28/19/20247314.jpg" group-title="Filmes Antigos",Deus é Brasileiro (2003)
-http://192.99.18.120/FANTASIA/Deus.e.Brasileiro.avi%5bZzagor.blogspot.com%5dZzagor.avi
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/98/34/20123456.jpg" group-title="Filmes Antigos",Da Magia à Sedução (1998)
-http://192.99.18.120/FANTASIA/Da.Magia.%c3%a0.Sedu%c3%a7%c3%a3o.1998.720p.BluRay.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/356/21035629_2013090217574734.jpg" group-title="Filmes Antigos",As Donas da Noite (2010)
-http://192.99.18.120/FANTASIA/As.Donas.Da.Noite.BDRip.XviD.Dual.Audio-3LT0N.avi
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51xT2gLYusL._SY445_.jpg" group-title="Filmes Antigos",Antes que termine o dia (2004)
-http://192.99.18.120/FANTASIA/Antes%20que%20termine%20o%20dia%20(2004)%20720p%20Dublado%20by%20Lindo2002.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/33/72/20028717.jpg" group-title="Filmes Antigos",Além da Vida (2010)
-http://192.99.18.120/FANTASIA/Al%c3%a9m%20da%20Vida%20(2010)%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://torrentoon.org/capa/a-furia-de-vajra-download-torrent-2013-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes Antigos",A Furia de Vajra (2015)
-http://192.99.18.120/FANTASIA/A.Furia.de.Vajra.2015.720p.Dual-WOLVERDONFILMES.COM.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/15/06/19/15/45/165329.jpg" group-title="Filmes Antigos",Você Acredita (2015)
-http://192.99.18.120/DRAMA/Voc%c3%aa%20Acredita%20(2015)%205.1%20CH%20Dublado%20720p%20(By-LuanHarper).mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/32/06/19874283.jpg" group-title="Filmes Antigos",Vírus (2010)
-http://192.99.18.120/DRAMA/V%c3%adrus.2010.720p.WEB-DL.DDP2.0.x264-DUAL.WWW.COMANDOTORRENTS.COM.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Wzj9aLR0L._AC_SL1500_.jpg" group-title="Filmes Antigos",Vício Inerente (2015)
-http://192.99.18.120/DRAMA/V%c3%adcio%20Inerente%20(2015)%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/04/13/20/56/146298.jpg" group-title="Filmes Antigos",Uma Longa Jornada (2015)
-http://192.99.18.120/DRAMA/Uma%20Longa%20Jornada%20(2015)%205.1%20CH%20Dublado%20720p%20(By-LuanHarper).mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/47/74/95/4774956aa8ded6116370b93ab17f8feb.jpg" group-title="Filmes Antigos",Um Dia (2011)
-http://192.99.18.120/DRAMA/Um%20Dia%20(2011)%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/21/97/20091647.jpg" group-title="Filmes Antigos",Um Homem de Sorte (2012)
-http://192.99.18.120/DRAMA/Um.Homem.de.Sorte.2012.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/95/28/55/20394592.jpg" group-title="Filmes Antigos",Te Amarei Para Sempre (2009)
-http://192.99.18.120/DRAMA/Te%20Amarei%20Para%20Sempre%20(2009)%20BluRay%201080p%20DUAL%20%c3%81UDIO.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/43/68/b0/4368b0671eeec5a92dbba6137e276f23.jpg" group-title="Filmes Antigos",Taxi Driver (1976)
-http://192.99.18.120/DRAMA/Taxi%20Driver%20(1976)%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/08/21/22/33/059443.jpg" group-title="Filmes Antigos",Soul Surfer: Coragem de Viver (2011)
-http://192.99.18.120/DRAMA/Soul%20Surfer%20-%20Coragem%20de%20Viver%20(2011)%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/53/3b/1f533bf81576b8096baa2bafae96a21c.jpg" group-title="Filmes Antigos",Sete Vidas (2008)
-http://192.99.18.120/DRAMA/Sete%20Vidas%20HD.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/74/21/72/20315919.jpg" group-title="Filmes Antigos",Querido John (2010)
-http://192.99.18.120/DRAMA/Querido%20John%20HD.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41EJCj1u0QL._SX340_BO1,204,203,200_.jpg" group-title="Filmes Antigos",P.S. Eu Te Amo (2007)
-http://192.99.18.120/DRAMA/P.%20S.%20Eu%20Te%20Amo%20-%20Dublado.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/15/09/28/20/00/141739.jpg" group-title="Filmes Antigos",O Quarto de Jack (2015)
-http://192.99.18.120/DRAMA/O%20Quarto%20de%20Jack%20(2016)%205.1%20CH%20Dublado%20720p%20(By-LuanHarper).mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71rLVLvRL2L._RI_.jpg" group-title="Filmes Antigos",Drive (2011)
-http://192.99.18.120/DRAMA/Drive%20(www.thepiratefilmes.com).mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/93/27/20120933.jpg" group-title="Filmes Antigos",O Poderoso Chefão: Parte II (1975)
-http://192.99.18.120/DRAMA/O%20Poderoso%20Chef%c3%a3o%20-%20Parte%20II%20720p%20The%20Pirate%20Filmes.mp4
-#EXTINF:-1 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/15702.jpg" group-title="Filmes Antigos",O Lado Bom Da Vida (2012)
-http://192.99.18.120/DRAMA/O%20Lado%20Bom%20Da%20Vida%20(2012)%20720p%20-%20210GJI.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/06/18/14/08/557678.jpg" group-title="Filmes Antigos",O Céu é de Verdade (2014)
-http://192.99.18.120/DRAMA/O.C%c3%a9u.%c3%a9.de.Verdade.2014.BRRip.720p.Dublado.AC3%205.1%20-%20REDNOSE.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/3e/a4/f43ea4b3da504f22d2a043058c66c202.jpg" group-title="Filmes Antigos",Noe (2014)
-http://192.99.18.120/DRAMA/Noe%20-%20JefePsb%20-%20ARQUIVOSTORRENT.COM.BR.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Dt6eoEg%2BL.__AC_SX300_SY300_QL70_ML2_.jpg" group-title="Filmes Antigos",Mr. Nobody (2009)
-http://192.99.18.120/DRAMA/Mr.%20Nobody%202009%20Dublado.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/35/89/20028779.jpg" group-title="Filmes Antigos",Millennium: Os Homens que Não Amavam as mulheres (2011)
-http://192.99.18.120/DRAMA/Millennium-%20Os%20Homens%20que%20N%c3%a3o%20Amavam%20as%20mulheres%20~%20The%20Pirate%20Filmes.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/95/16/58/20384818.jpg" group-title="Filmes Antigos",Meu Primeiro Amor (1991)
-http://192.99.18.120/DRAMA/Meu%20Primeiro%20Amor%20(1991)%20BRrip%20Blu-Ray%20720p%20Dublado%20-%20Dat2015.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/57/90/90/5790904da63816af1a9a856cc8af3b09.jpg" group-title="Filmes Antigos",Maria Antonieta (2006)
-http://192.99.18.120/DRAMA/Maria%20Antonieta%202006%20720p%20BRRip%20x264%20Dual-VeNoN.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/48/05/20098608.jpg" group-title="Filmes Antigos",Lovelace (2013)
-http://192.99.18.120/DRAMA/Lovelace.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/33/19/20028709.jpg" group-title="Filmes Antigos",Juntos pelo Acaso (2010)
-http://192.99.18.120/DRAMA/Juntos%20pelo%20Acaso%20(2010)%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/210/541/21054192_20131030182858382.jpg" group-title="Filmes Antigos",Jovem e Bela (2014)
-http://192.99.18.120/DRAMA/Jovem.e.Bela.2013.720p.WEB-DL.x264.DUAL.WWW.COMANDOTORRENTS.COM.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/11/04/15/26/316577.jpg" group-title="Filmes Antigos",Invencível (2014)
-http://192.99.18.120/DRAMA/Invenc%c3%advel%20(2015)%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/36/77/20028823.jpg" group-title="Filmes Antigos",Histórias Cruzadas (2011)
-http://192.99.18.120/DRAMA/Hist%c3%b3rias%20Cruzadas%20(2012)%20720p%20Dublado%20Pt%20Br%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71wn3RxiwkL._AC_SY879_.jpg" group-title="Filmes Antigos",High School Musical 2 (2007)
-http://192.99.18.120/DRAMA/High%20School%20Musical%202%20(2007)%20BRrip%20Blu-Ray%20720p%20Dublado%20-%20Dat2015.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/04/99/19871506.jpg" group-title="Filmes Antigos",High School Musical 3: Ano da Formatura (2008)
-http://192.99.18.120/DRAMA/High%20School%20Musical%203%20-%20Ano%20da%20Formatura%20(2008)%20BRrip%20Blu-Ray%20720p%20Dublado%20-%20Dat2015.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/107/21010739_20130606143923431.jpg" group-title="Filmes Antigos",Garota Mimada (2008)
-http://192.99.18.120/DRAMA/Garota%20Mimada%20(2008)%20-%20BDRip%20720p%20-%20Dublado.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fa/8a/04/fa8a042d96871f97ff8da521ac3e5c42.jpg" group-title="Filmes Antigos",Escrito Nas Estrelas (2001)
-http://192.99.18.120/DRAMA/Escrito%20Nas%20Estrelas%20(2001)%20BDRIP%20720p%20Dublado.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91NSsdzLqTL._SL1500_.jpg" group-title="Filmes Antigos",Colombiana: Em Busca de Vingança (2011)
-http://192.99.18.120/DRAMA/Colombiana%20-%20Em%20Busca%20de%20Vingan%c3%a7a%20(2011)%20BRrip%20720p%20Dublado.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91G8tO7nUOL._SL1500_.jpg" group-title="Filmes Antigos",Click (2006)
-http://192.99.18.120/DRAMA/Click.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91hiY1hCU5L._AC_SL1500_.jpg" group-title="Filmes Antigos",Cartas para Julieta (2010)
-http://192.99.18.120/DRAMA/Cartas%20para%20Julieta%201080p%20(2010)%20Dublado%20-%20YTSBR.COM.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/12/08/18/05/585961.jpg" group-title="Filmes Antigos",Boa Noite, Mamãe (2015)
-http://192.99.18.120/DRAMA/Boa%20Noite,%20Mam%c3%a3e.2016.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/46/7f/22/467f22c735cb62f9a025c03b7d078fa4.jpg" group-title="Filmes Antigos",Beleza Americana (1999)
-http://192.99.18.120/DRAMA/Beleza%20Americana%20720p%20(1999)%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20Lucas%20Firmo.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/67/40/30/20271333.jpg" group-title="Filmes Antigos",Austrália (2009)
-http://192.99.18.120/DRAMA/Austr%c3%a1lia%20(2009)%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/07/66/ac/0766ac0d98ede5ec39b9e7e59417c872.jpg" group-title="Filmes Antigos",As Vantagens de Ser Invisível (2012)
-http://192.99.18.120/DRAMA/As%20Vantagens%20de%20Ser%20Invis%c3%advel%20(2012)%20%20720p%20-%20210GJI.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/912YQjOncML._RI_.jpg" group-title="Filmes Antigos",A Vida Secreta de Walter Mitty (2013)
-http://192.99.18.120/DRAMA/A%20Vida%20Secreta%20de%20Walter%20Mitty%20720p%20-%20The%20Pirate%20Filmes.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0e/ae/5e/0eae5e7377ef3899d49545b45bf788a8.jpg" group-title="Filmes Antigos",A Primeira Vez (2015)
-http://192.99.18.120/DRAMA/A%20Primeira%20Vez%202015%20720p%20Bluray%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/91/cd/72/91cd72cf349677c0437de0dcc903de63.jpg" group-title="Filmes Antigos",A Pele Que Habito (2011)
-http://192.99.18.120/DRAMA/A%20Pele%20Que%20Habito%20-%20Dual%20%c3%81udio.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/61/27/20208820.jpg" group-title="Filmes Antigos",A Identidade Bourne (2002)
-http://192.99.18.120/DRAMA/A%20Identidade%20Bourne%20BluRay%201080p%20Dublado%20D4V1.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/33/10/19874391.jpg" group-title="Filmes Antigos",A Morte e Vida de Charlie (2010)
-http://192.99.18.120/DRAMA/A.Morte.e.Vida.de.Charlie..2010.WEB-DL.x264.DUBLADO.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/03/17/11/492304.jpg" group-title="Filmes Antigos",3096 Dias De Cativeiro (2014)
-http://192.99.18.120/DRAMA/3096%20Dias%20De%20Cativeiro%20(2014)%20BDrip%20720p%20Dublado%20-%20AndreTPF.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Ae4RCbL5L._RI_.jpg" group-title="Filmes Antigos",127 Horas (2010)
-http://192.99.18.120/DRAMA/127%20Horas%20(2010)%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/184/21018451_20130709170609451.jpg" group-title="Filmes Antigos",30 Minutos ou Menos (2011)
-http://192.99.18.120/COMEDIA/30%20Minutos%20ou%20Menos.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/25/01/20028655.jpg" group-title="Filmes Antigos",Viagem Ao Centro da Terra (2008)
-http://192.99.18.120/AVENTURA%2056/Viagem%20Ao%20Centro%20da%20Terra%20(2008)%20720p.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/411NLUUrQqL.jpg" group-title="Filmes Antigos",Uma Historia de Amor e Furia (2013)
-http://192.99.18.120/AVENTURA%2056/Uma%20Historia%20de%20Amor%20e%20Furia.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81qL5j2vObL._SL1500_.jpg" group-title="Filmes Antigos",Tarzan: A Evolução da Lenda (2014)
-http://192.99.18.120/AVENTURA%2056/Tarzan.A.Evolu%c3%a7%c3%a3o.da.Lenda.2014.1080p.Dual-WOLVERDONFILMES.COM.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51MmKNj5g0L._SY445_.jpg" group-title="Filmes Antigos",Street Fighter: A Última Batalha (1994)
-http://192.99.18.120/AVENTURA%2056/Street%20Fighter%20-%20A%20%c3%9altima%20Batalha%20(1994)%20BRRip%20Blu-Ray%20720p%20Dublado%20Dat2014.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/90/21/19962720.jpg" group-title="Filmes Antigos",Soldado Universal 3: Regeneração (2010)
-http://192.99.18.120/AVENTURA%2056/Soldado%20Universal%203%20-%20Regenera%c3%a7%c3%a3o%20%5b2010%5d%20-%20BluRay%20720p%20Dual%20%c3%81udio.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/15/07/09/19/30/423655.jpg" group-title="Filmes Antigos",Sob O Domínio Dos Robôs (2015)
-http://192.99.18.120/AVENTURA%2056/Sob.o.Dom%c3%adnio.dos.Rob%c3%b4s.2015.720p.Dublado-JefePsb-WOLVERDONFILMES.COM.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VEIGdfqrL._SY445_.jpg" group-title="Filmes Antigos",Shaft (2000)
-http://192.99.18.120/AVENTURA%2056/Shaft.2000.720p.BluRay.6CH.DUAL-WwW.LAPUMiAFiLMES.COM.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/75/a4/2175a4a42c2c26c7920570b4d08266ae.jpg" group-title="Filmes Antigos",Serenity: A Luta Pelo Amanhã (2005)
-http://192.99.18.120/AVENTURA%2056/Serenity%20-%20A%20Luta%20Pelo%20Amanh%c3%a3%20(2005)%20BluRay%20720p%20Dublado.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51nXm-tW2%2BL._AC_.jpg" group-title="Filmes Antigos",RoboCop 2 (1990)
-http://192.99.18.120/AVENTURA%2056/RoboCop%202%20(1990)%20Bluray%20720p%20Filmes%20M.H.G.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/97/43/48/20528876.jpg" group-title="Filmes Antigos",Risco Total (1993)
-http://192.99.18.120/AVENTURA%2056/Risco%20Total%20%5b1993%5d%20-%20BluRay%20720p%20Dublado.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-hUIJ6SeL._AC_SX569_.jpg" group-title="Filmes Antigos",Reino Dos Felinos (2011)
-http://192.99.18.120/AVENTURA%2056/Reino%20Dos%20Felinos%20(2011)%20BDrip%201080p%20Dublado%20dat2014.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/05/80/2b/05802b920c11718583ab59ec1ab37391.jpg" group-title="Filmes Antigos",Ponte para Terabítia (2007)
-http://192.99.18.120/AVENTURA%2056/Ponte%20para%20Terab%c3%adtia%20(2007)%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/25/b4/97/25b497800dc743c159ad742c8c37b36e.jpg" group-title="Filmes Antigos",Pompeia (2014)
-http://192.99.18.120/AVENTURA%2056/Pompeia%20(2014).Dublado.720p.By.LuanHarper.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81c2gQE0sqL.jpg" group-title="Filmes Antigos",Piratas Do Caribe: A Maldição do Pérola Negra (2003)
-http://192.99.18.120/AVENTURA%2056/Piratas.Do.Caribe.A.Maldi%c3%a7%c3%a3o.do.P%c3%a9rola.Negra.2003.720p.BrRip.x264.210GJI.mkv
+
+
+
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/33/06/20028706.jpg" group-title="Filmes Antigos",Piratas Do Caribe: Navegando Em Aguas Misteriosas (2011)
 http://185.148.3.146:6503/Piratas_Do_Caribe_Navegando_Em_%C3%81guas_Misteriosas_720p_210GJI.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/37/01/19874790.jpg" group-title="Filmes Antigos",Os Especialistas (2011)
-http://192.99.18.120/AVENTURA%2056/Os%20Especialistas%20-%20ToTTi9.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x6UZgde.jpg" group-title="Filmes Antigos",O Hobbit: Uma Jornada Inesperada (2012)
-http://192.99.18.120/AVENTURA%2056/O%20Hobbit%20-%20Uma%20Jornada%20Inesperada%20(2012)%20720p%20-%20Vers%c3%a3o%20Estendida%20-%20210GJI.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/93/65/20028878.jpg" group-title="Filmes Antigos",O Espião Que Sabia Demais (2011)
-http://192.99.18.120/AVENTURA%2056/O%20Espi%c3%a3o%20Que%20Sabia%20Demais.MP4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cW3ar5VSL._SY445_.jpg" group-title="Filmes Antigos",Max (2015)
-http://192.99.18.120/AVENTURA%2056/Max.2015.BluRay.720p.Dual-WWW.BLUDV.COM.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/91/51/20224881.jpg" group-title="Filmes Antigos",Madrugada Muito Louca 2 (2008)
-http://192.99.18.120/AVENTURA%2056/Madrugada%20Muito%20Louca%202%201080p%20(2008)%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/59/22/20103717.jpg" group-title="Filmes Antigos",Máquina Mortífera 3 (1992)
-http://192.99.18.120/AVENTURA%2056/M%c3%a1quina%20Mort%c3%adfera%203%20(1992)%20BluRay%20720p%20Dual%20%c3%81udio.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/Aq7svK5vv8Ex5BXoTWpyhJzkVsj.jpg" group-title="Filmes Antigos",Highlander: O Guerreiro Imortal (1986)
-http://192.99.18.120/AVENTURA%2056/Highlander%20-%20O%20Guerreiro%20Imortal%20(1986)%20BDrip%20720p%20Dublado.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7a/b9/d8/7ab9d8bf615adbf59fdbfe48027543b9.jpg" group-title="Filmes Antigos",Hanna (2011)
-http://192.99.18.120/AVENTURA%2056/Hanna%20720p%20-%20The%20Pirate%20Filmes.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/59/33/20103744.jpg" group-title="Filmes Antigos",Gangues de Nova York (2002)
-http://192.99.18.120/AVENTURA%2056/Gangues%20de%20Nova%20York.MP4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51V4MSGP0JL.jpg" group-title="Filmes Antigos",Free Willy 3: The Rescue (1997) HD
-http://192.99.18.120/DRAMA/Free.Willy.3.The%20Rescue.BluRay.720p.%5bTorrentDosFilmesHD.net%5d.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51V4MSGP0JL.jpg" group-title="Filmes Antigos",Free Willy 3: The Rescue (1997)
-http://192.99.18.120/AVENTURA%2056/Free.Willy.3.The%20Rescue.BluRay.720p.%5bTorrentDosFilmesHD.net%5d.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51GJOjM0oGL._AC_.jpg" group-title="Filmes Antigos",Final Fantasy (2001)
-http://192.99.18.120/AVENTURA%2056/Final%20Fantasy%20(2001)%20BluRay%20720p%20Dublado.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/816NrWpS78L._RI_.jpg" group-title="Filmes Antigos",Esquadrão Red Tails (2015)
-http://192.99.18.120/AVENTURA%2056/Esquadr%c3%a3o%20Red%20Tails.(2014).Dublado.720p.By.Luan.Harper.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/15/06/22/21/35/425566.jpg" group-title="Filmes Antigos",Dragon Blade (2015)
-http://192.99.18.120/AVENTURA%2056/Dragon%20Blade%20720p%20(2016)%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/96/21/53/20453471.jpg" group-title="Filmes Antigos",Desventuras em Série (2004)
-http://192.99.18.120/AVENTURA%2056/Desventuras%20em%20S%c3%a9rie%201080p%20-%20Filmes%20Beta.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/210/462/21046251_20131002221316773.jpg" group-title="Filmes Antigos",Dançando no escuro (2000)
-http://192.99.18.120/AVENTURA%2056/Dancando.no.Escuro.2000.BluRay.1080p.Dual.Audio-WWW.FILMESETORRENT.COM.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/01/94/19883150.jpg" group-title="Filmes Antigos",Com as Próprias Mãos (2004)
-http://192.99.18.120/AVENTURA%2056/Com.as.Pr%c3%b3prias.M%c3%a3os.2004.720p.BluRay.DD5.1.H264.DUBLADO-WwW.LAPUMiAFiLMES.COM.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cY0Lsf1DL.jpg" group-title="Filmes Antigos",Cidade de Deus (2002) HD
-http://192.99.18.120/DRAMA/Cidade%20de%20Deus%20(2002)%20BDrip%20720p%20Nacional%20dat2014.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cY0Lsf1DL.jpg" group-title="Filmes Antigos",Cidade de Deus (2002)
-http://192.99.18.120/AVENTURA%2056/Cidade%20de%20Deus.MP4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/94/83/21/20359787.jpg" group-title="Filmes Antigos",Busca Explosiva 2 (2009)
-http://192.99.18.120/AVENTURA%2056/Busca%20Explosiva%202%20(2009)%20720p%20BrRip%20(DualAudio).mkv
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/75/03/19961163.jpg" group-title="Filmes Antigos",Bem Vindo A Selva (2003)
-http://192.99.18.120/AVENTURA%2056/Bem%20Vindo%20A%20Selva%20(2004)%20720p%20BrRip%20(DualAudio).mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/07/10/20/32/329935.jpg" group-title="Filmes Antigos",Aviões 2: Heróis do Fogo ao Resgate (2014)
-http://192.99.18.120/AVENTURA%2056/Avi%c3%b5es%202%20-%20Her%c3%b3is%20do%20Fogo%20ao%20Resgate%20(2014)%20BRrip%201080p%20Dublado%20-%20AndreTPF.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/89/84/37/20475598.jpg" group-title="Filmes Antigos",A Hospedeira (2013)
-http://192.99.18.120/AVENTURA%2056/A%20Hospedeira%20(2013)%20720p%20Dublado%20-%20AndreTPF.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/90/70/20028698.jpg" group-title="Filmes Antigos",A Lenda dos Guardiões (2010) HD
-http://192.99.18.120/AVENTURA%2056/A.Lenda.dos.Guardi%c3%b5es.2010.720p.BluRay.6CH.x264.DUAL-WwW.LAPUMiAFiLMES.COM.mkv
+
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/90/70/20028698.jpg" group-title="Filmes Antigos",A Lenda dos Guardiões (2010)
 http://185.148.3.146:6503/a_lenda_dos_guardioes.mp4
 
